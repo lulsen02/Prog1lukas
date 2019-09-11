@@ -6,7 +6,7 @@ public class Test1 { public static void main (String [] arg){
 	tal1=1; // tilldelning
 	
 	int tal2=10; //deklarering + tilldelning = initsiering 
-	
+	//hjhj
 	
 	double d = 1;
 	
