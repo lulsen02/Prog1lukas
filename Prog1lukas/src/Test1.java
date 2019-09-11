@@ -1,6 +1,6 @@
 
 public class Test1 { public static void main (String [] arg){
-	
+	//gfbf
 	int tal1; // deklarering
 	int Tal1;
 	tal1=1; // tilldelning
@@ -19,7 +19,7 @@ public class Test1 { public static void main (String [] arg){
 	
 	
 	
-	
+
 	
 	
 	System.out.println(tal1);
